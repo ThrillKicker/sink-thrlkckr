@@ -5,7 +5,7 @@
         "pattern": "thrlkc.kr",
         "custom_domain": true
       }
-    ]
+    ],
   "name": "sink-thrlkckr",
   "main": "dist/server/index.mjs",
   "assets": {
