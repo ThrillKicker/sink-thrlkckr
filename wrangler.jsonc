@@ -24,7 +24,7 @@
   "analytics_engine_datasets": [
     {
       "binding": "ANALYTICS",
-      "dataset": "sink"
+      "dataset": "sink-thrlkckr"
     }
   ],
   "kv_namespaces": [
